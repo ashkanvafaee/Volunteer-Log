@@ -385,8 +385,8 @@ namespace Data_Base_2 {
 
 
 
-		////NetOffice::ExcelApi::Range^ cell = oSheet->Range(oSheet->Cells[1, 1], oSheet->Cells[1000, 1000]);    ******* Compatibility Error in Excel 2000 (can't create range object)
-		////cell->ColumnWidth = 10;																				 ******* Compatibility Error in Excel 2000
+		//NetOffice::ExcelApi::Range^ cell = oSheet->Range(oSheet->Cells[1, 1], oSheet->Cells[1000, 1000]);    ******* Compatibility Error in Excel 2000 (can't create range object)   
+		////cell->ColumnWidth = 10;                                                                            ******* Compatibility Error in Excel 2000 (can't create range object)																				 
 
 
 		NetOffice::ExcelApi::Application^ oApp;
