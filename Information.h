@@ -1,3 +1,6 @@
+/****************************************************************************************
+User Access to First Volunteer Date, Total Hours Volunteered, and Tier Level
+*****************************************************************************************/
 #pragma once
 
 namespace Data_Base_2 {
